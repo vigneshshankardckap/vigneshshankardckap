@@ -1,4 +1,4 @@
-![MasterHead](https://www.gyanvihar.org:3001/uploads/1630053356860mbahead.jpg)
+![MasterHead](https://www.techcronus.com/assets/images/HireFullStackBanner.png)
 <h1 align="center">Hi 👋, I'm Vignesh Shankar</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
