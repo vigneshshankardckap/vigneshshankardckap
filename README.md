@@ -1,3 +1,4 @@
+[![MasterHead](https://www.apptha.com/blog/wp-content/uploads/2019/05/Hire-full-stack-developer.jpg)]
 <h1 align="center">Hi 👋, I'm Vignesh Shankar</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
