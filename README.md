@@ -11,6 +11,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/vigneshshankardckap](https://github.com/vigneshshankardckap)
 
+- 📝 I regularly write articles on [https://vigneshshankarblog.wordpress.com/](https://vigneshshankarblog.wordpress.com/)
+
 - 💬 Ask me about **PHP ,JavaScript**
 
 - 📫 How to reach me **vigneshshankardckp@gmail.com**
@@ -29,4 +31,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vigneshshankardckap&show_icons=true&locale=en" alt="vigneshshankardckap" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vigneshshankardckap&" alt="vigneshshankardckap" /></p>
-
